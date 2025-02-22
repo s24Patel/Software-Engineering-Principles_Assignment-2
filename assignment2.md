@@ -175,5 +175,30 @@
 ### **Requirement 11: System Security and Access Control**
 **As a system, I should enforce strict access control so that only authorized users can interact with sensitive training data.**
 
+#### **Assumptions & Validation:**
+- **Assumption:** Unauthorized access is a potential security risk.
+- **Validation:** Conduct penetration testing to identify security gaps.
+
+#### **Preliminary Tasks:**
+- Implement multi-factor authentication for user access.
+- Set up user roles and permissions.
+- Encrypt sensitive data at rest and in transit.
+
+#### **Outcome:**
+- Sensitive data remains secure from unauthorized access.
+
+
 ### **Requirement 12: System Performance Monitoring**
 **As a system, I should be able to monitor performance and resource usage so that I can detect and resolve bottlenecks.**
+
+#### **Assumptions & Validation:**
+- **Assumption:** Performance bottlenecks may slow down AI training.
+- **Validation:** Conduct load testing to simulate real-world usage.
+
+#### **Preliminary Tasks:**
+- Implement real-time monitoring for system metrics.
+- Set up alerts for unusual spikes in resource usage.
+- Optimize system components based on performance reports.
+
+#### **Outcome:**
+- System remains optimized, ensuring smooth operation.
