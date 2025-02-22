@@ -152,3 +152,15 @@
 
 #### **Outcome:**
 - AI model training becomes easier and more efficient.
+
+
+## **System Requirements:**
+
+### **Requirement 10: Scalable Storage Solution**
+**As a system, I should be able to store large amounts of training data efficiently so that developers can access it without delays.**
+
+### **Requirement 11: System Security and Access Control**
+**As a system, I should enforce strict access control so that only authorized users can interact with sensitive training data.**
+
+### **Requirement 12: System Performance Monitoring**
+**As a system, I should be able to monitor performance and resource usage so that I can detect and resolve bottlenecks.**
