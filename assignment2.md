@@ -109,6 +109,19 @@
 ### **Requirement 7: Data Collection Automation**
 **As a system, I should be able to automatically scrape and collect publicly available training data so that developers do not have to do it manually.**
 
+#### **Assumptions & Validation:**
+- **Assumption:** Web scraping can be automated effectively.
+- **Validation:** Test different web scraping frameworks for efficiency.
+
+#### **Preliminary Tasks:**
+- Identify trusted data sources for training.
+- Develop a web scraping script to automate data collection.
+- Implement error handling to manage failed scrapes.
+
+#### **Outcome:**
+- Developers save time by having automated data collection.
+
+
 ### **Requirement 8: Data Cleaning and Preprocessing**
 **As a system, I should be able to clean and preprocess collected training data so that developers receive high-quality input for AI models.**
 
