@@ -37,6 +37,7 @@
 #### **Outcome:**
 - AI models perform more fairly and accurately, avoiding biased decision-making.
 
+---
 
 ## **Additional Requirements**
 
@@ -55,6 +56,7 @@
 #### **Outcome:**
 - The system remains legally compliant, avoiding potential legal risks.
 
+---
 
 ### **Requirement 4: Secure System Access**
 **As a system administrator, I want to restrict access to training data so that only authorized users can modify it.**
@@ -71,6 +73,7 @@
 #### **Outcome:**
 - Unauthorized users are blocked, ensuring data security and integrity.
 
+---
 
 ### **Requirement 5: Performance Optimization**
 **As a developer, I want the system to handle large amounts of data efficiently so that it remains fast and responsive.**
@@ -87,6 +90,7 @@
 #### **Outcome:**
 - The system remains fast, even with large data loads, improving developer productivity.
 
+---
 
 ### **Requirement 6: Generating Reports and Insights**
 **As a developer, I want to generate reports on how balanced the training data is so that I can track improvements.**
@@ -103,6 +107,7 @@
 #### **Outcome:**
 - Developers can monitor and improve AI training data over time.
 
+---
 
 ## **Functional Requirements:**
 
@@ -121,6 +126,7 @@
 #### **Outcome:**
 - Developers save time by having automated data collection.
 
+---
 
 ### **Requirement 8: Data Cleaning and Preprocessing**
 **As a system, I should be able to clean and preprocess collected training data so that developers receive high-quality input for AI models.**
@@ -137,6 +143,7 @@
 #### **Outcome:**
 - AI models receive clean, high-quality training data, improving performance.
 
+---
 
 ### **Requirement 9: Model Training Workflow**
 **As a system, I should provide a seamless workflow for training AI models with the processed data so that developers can efficiently build models.**
@@ -153,6 +160,7 @@
 #### **Outcome:**
 - AI model training becomes easier and more efficient.
 
+---
 
 ## **System Requirements:**
 
@@ -171,6 +179,7 @@
 #### **Outcome:**
 - Training data is stored efficiently, ensuring smooth access.
 
+---
 
 ### **Requirement 11: System Security and Access Control**
 **As a system, I should enforce strict access control so that only authorized users can interact with sensitive training data.**
@@ -187,6 +196,7 @@
 #### **Outcome:**
 - Sensitive data remains secure from unauthorized access.
 
+---
 
 ### **Requirement 12: System Performance Monitoring**
 **As a system, I should be able to monitor performance and resource usage so that I can detect and resolve bottlenecks.**
@@ -202,3 +212,5 @@
 
 #### **Outcome:**
 - System remains optimized, ensuring smooth operation.
+
+---
