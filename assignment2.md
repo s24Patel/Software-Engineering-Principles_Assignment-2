@@ -36,3 +36,18 @@
 
 #### **Outcome:**
 - AI models perform more fairly and accurately, avoiding biased decision-making.
+
+
+## **Additional Requirements**
+
+### **Requirement 3: Legal Compliance**
+**As a system owner, I want to ensure that the collected data is legal to use so that we comply with regulations.**
+
+### **Requirement 4: Secure System Access**
+**As a system administrator, I want to restrict access to training data so that only authorized users can modify it.**
+
+### **Requirement 5: Performance Optimization**
+**As a developer, I want the system to handle large amounts of data efficiently so that it remains fast and responsive.**
+
+### **Requirement 6: Generating Reports and Insights**
+**As a developer, I want to generate reports on how balanced the training data is so that I can track improvements.**
