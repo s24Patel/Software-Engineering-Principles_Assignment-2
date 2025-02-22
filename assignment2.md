@@ -43,6 +43,19 @@
 ### **Requirement 3: Legal Compliance**
 **As a system owner, I want to ensure that the collected data is legal to use so that we comply with regulations.**
 
+#### **Assumptions & Validation:**
+- **Assumption:** The data being collected is legal to use.
+- **Validation:** Consult legal experts to ensure compliance with data regulations.
+
+#### **Preliminary Tasks:**
+- Research relevant legal guidelines on AI training data.
+- Implement consent mechanisms for data usage.
+- Develop a data compliance checklist.
+
+#### **Outcome:**
+- The system remains legally compliant, avoiding potential legal risks.
+
+
 ### **Requirement 4: Secure System Access**
 **As a system administrator, I want to restrict access to training data so that only authorized users can modify it.**
 
