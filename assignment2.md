@@ -59,8 +59,46 @@
 ### **Requirement 4: Secure System Access**
 **As a system administrator, I want to restrict access to training data so that only authorized users can modify it.**
 
+#### **Assumptions & Validation:**
+- **Assumption:** Only approved users should be able to access certain features.
+- **Validation:** Conduct security audits to ensure access controls work correctly.
+
+#### **Preliminary Tasks:**
+- Implement user authentication and role-based access control.
+- Set up logging to track modifications and access attempts.
+- Encrypt stored data to prevent unauthorized access.
+
+#### **Outcome:**
+- Unauthorized users are blocked, ensuring data security and integrity.
+
+
 ### **Requirement 5: Performance Optimization**
 **As a developer, I want the system to handle large amounts of data efficiently so that it remains fast and responsive.**
 
+#### **Assumptions & Validation:**
+- **Assumption:** The system should handle large amounts of data quickly and efficiently.
+- **Validation:** Test performance with large datasets and measure response times.
+
+#### **Preliminary Tasks:**
+- Optimize database queries for speed.
+- Implement caching mechanisms for frequently accessed data.
+- Conduct load testing to ensure stability under high usage.
+
+#### **Outcome:**
+- The system remains fast, even with large data loads, improving developer productivity.
+
+
 ### **Requirement 6: Generating Reports and Insights**
 **As a developer, I want to generate reports on how balanced the training data is so that I can track improvements.**
+
+#### **Assumptions & Validation:**
+- **Assumption:** Developers need insights into training data balance.
+- **Validation:** Gather feedback from developers on the usefulness of generated reports.
+
+#### **Preliminary Tasks:**
+- Build a dashboard to display training data statistics.
+- Create reports that visualize data balance.
+- Allow users to download reports in different formats.
+
+#### **Outcome:**
+- Developers can monitor and improve AI training data over time.
