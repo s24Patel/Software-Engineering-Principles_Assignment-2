@@ -102,3 +102,15 @@
 
 #### **Outcome:**
 - Developers can monitor and improve AI training data over time.
+
+
+## **Functional Requirements:**
+
+### **Requirement 7: Data Collection Automation**
+**As a system, I should be able to automatically scrape and collect publicly available training data so that developers do not have to do it manually.**
+
+### **Requirement 8: Data Cleaning and Preprocessing**
+**As a system, I should be able to clean and preprocess collected training data so that developers receive high-quality input for AI models.**
+
+### **Requirement 9: Model Training Workflow**
+**As a system, I should provide a seamless workflow for training AI models with the processed data so that developers can efficiently build models.**
