@@ -125,5 +125,30 @@
 ### **Requirement 8: Data Cleaning and Preprocessing**
 **As a system, I should be able to clean and preprocess collected training data so that developers receive high-quality input for AI models.**
 
+#### **Assumptions & Validation:**
+- **Assumption:** Collected data will require preprocessing to be usable.
+- **Validation:** Analyze raw data to determine common preprocessing needs.
+
+#### **Preliminary Tasks:**
+- Implement algorithms to remove duplicate and irrelevant data.
+- Standardize formatting across different data sources.
+- Develop a logging system for tracking preprocessing steps.
+
+#### **Outcome:**
+- AI models receive clean, high-quality training data, improving performance.
+
+
 ### **Requirement 9: Model Training Workflow**
 **As a system, I should provide a seamless workflow for training AI models with the processed data so that developers can efficiently build models.**
+
+#### **Assumptions & Validation:**
+- **Assumption:** Developers want an integrated system for data preprocessing and model training.
+- **Validation:** Gather feedback from developers on their training workflow needs.
+
+#### **Preliminary Tasks:**
+- Design a pipeline that connects preprocessed data to model training.
+- Implement logging and reporting features for training runs.
+- Allow developers to configure model parameters easily.
+
+#### **Outcome:**
+- AI model training becomes easier and more efficient.
