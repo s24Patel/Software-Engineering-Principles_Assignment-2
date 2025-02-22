@@ -159,6 +159,19 @@
 ### **Requirement 10: Scalable Storage Solution**
 **As a system, I should be able to store large amounts of training data efficiently so that developers can access it without delays.**
 
+#### **Assumptions & Validation:**
+- **Assumption:** The system will need a scalable database for large datasets.
+- **Validation:** Test different storage solutions to find the best fit.
+
+#### **Preliminary Tasks:**
+- Choose a database optimized for large-scale data storage.
+- Implement indexing and partitioning strategies.
+- Monitor storage performance and optimize as needed.
+
+#### **Outcome:**
+- Training data is stored efficiently, ensuring smooth access.
+
+
 ### **Requirement 11: System Security and Access Control**
 **As a system, I should enforce strict access control so that only authorized users can interact with sensitive training data.**
 
